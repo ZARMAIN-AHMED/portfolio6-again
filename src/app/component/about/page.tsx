@@ -11,7 +11,7 @@ function About() {
         <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
             <Image
-              className="object-cover object-center rounded-full border-3 border-stone-400 ml-24 shadow-orange-500 shadow-2xl"
+              className="object-cover object-center rounded-full border-3 border-stone-400 md:ml-24 shadow-orange-500 shadow-2xl "
               alt="hero"
               src={"/hijabi.png"}
               height={400}
